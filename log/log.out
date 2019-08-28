@@ -1,0 +1,12 @@
+2019-08-28 11:53:38 INFO  ClassPathXmlApplicationContext:510 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@504bae78: startup date [Wed Aug 28 11:53:38 CEST 2019]; root of context hierarchy
+2019-08-28 11:53:38 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-08-28 11:53:39 INFO  DriverManagerDataSource:133 - Loaded JDBC driver: com.mysql.jdbc.Driver
+2019-08-28 11:53:39 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2019-08-28 11:53:39 INFO  Version:54 - HHH000412: Hibernate Core {4.3.4.Final}
+2019-08-28 11:53:39 INFO  Environment:239 - HHH000206: hibernate.properties not found
+2019-08-28 11:53:39 INFO  Environment:346 - HHH000021: Bytecode provider name : javassist
+2019-08-28 11:53:40 INFO  Dialect:145 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2019-08-28 11:53:40 INFO  TransactionFactoryInitiator:62 - HHH000399: Using default transaction strategy (direct JDBC transactions)
+2019-08-28 11:53:40 INFO  ASTQueryTranslatorFactory:47 - HHH000397: Using ASTQueryTranslatorFactory
+2019-08-28 11:53:40 INFO  HibernateTransactionManager:360 - Using DataSource [org.springframework.jdbc.datasource.DriverManagerDataSource@5489c777] of Hibernate SessionFactory for HibernateTransactionManager
+2019-08-28 11:53:40 INFO  ClassPathXmlApplicationContext:862 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@504bae78: startup date [Wed Aug 28 11:53:38 CEST 2019]; root of context hierarchy
