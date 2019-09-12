@@ -11,4 +11,6 @@ public interface IEmployeeDao  extends IGenericDao<Employee, Integer>{
 	public List<Employee> findByFirstName(String firstName);
 	
 	public List<Employee> findByLastName(String lastName);
+	
+	
 }
